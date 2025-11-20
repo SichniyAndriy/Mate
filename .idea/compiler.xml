@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jv-jdbc" />
+        <module name="jv-logger" />
+        <module name="jv-jdbc (1)" />
+        <module name="oop-example" />
+        <module name="spring-tests" />
+        <module name="spring-rest" />
+        <module name="jv-checked-exception" />
+        <module name="spring-web" />
+        <module name="swagger" />
+        <module name="hibernate-relations-hw" />
+        <module name="jv-fruit-shop-tests" />
+        <module name="robot" />
+        <module name="pecs" />
+        <module name="linked-list" />
+        <module name="intro" />
+        <module name="web-security" />
+        <module name="hibernate-cascade" />
+        <module name="read-write-list" />
+        <module name="diamond (1)" />
+        <module name="data-jpa" />
+        <module name="thread-pool" />
+        <module name="hibernate-create-movie-session-hw" />
+        <module name="immutable" />
+        <module name="web-practice" />
+        <module name="multithreading-intro" />
+        <module name="spring-security" />
+        <module name="elements-sum" />
+        <module name="jv-fruit-shop" />
+        <module name="web-intro" />
+        <module name="jv-oop-advanced" />
+        <module name="hibernate-criteria-query" />
+        <module name="spring-rest-web-pracitce" />
+        <module name="jv-stream-github-practice" />
+        <module name="read-from-file" />
+        <module name="jv-jdbc-intro" />
+        <module name="storage" />
+        <module name="jv-work-with-file" />
+        <module name="diamond (2)" />
+        <module name="spring-security-part-2" />
+        <module name="jv-dependency-injection" />
+        <module name="jv-join" />
+        <module name="hibernate-inheritance-example" />
+        <module name="hibernate-shopping-cart" />
+        <module name="decrease-counter" />
+        <module name="hash-map" />
+        <module name="salaryInfo" />
+        <module name="jv-lottery" />
+        <module name="array-list" />
+        <module name="spring-intro" />
+        <module name="jv-spring-stateless" />
+        <module name="diamond" />
+        <module name="registration-validation" />
+        <module name="strategy" />
+        <module name="blocking-queue" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="data-jpa" options="-parameters" />
+      <module name="intro" options="-parameters" />
+      <module name="swagger" options="-parameters" />
+    </option>
+  </component>
+</project>

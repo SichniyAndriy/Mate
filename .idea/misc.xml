@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jv-oop/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-join/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-pecs/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-robot/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-logger/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-lottery/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-storage/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-web/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-hash-map/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-immutable/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-web-intro/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-intro/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-array-list/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-fruit-shop/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-jdbc-intro/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-dao-service/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-linked-list/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-salary-info/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-oop-advanced/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-web-practice/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-web-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-stateless/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-intro/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-cascade/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-read-from-file/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-work-with-file/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-order-hw/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-fruit-shop-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-checked-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-relations-hw/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-part-2/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-dependency-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-multithreading-intro/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-criteria-query/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-web-servlet-lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-rest-web-practice/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-user-service-hw/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-stream-github-practice/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-configuration-hw/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-shopping-cart-hw/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-registration-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-inheritance-example/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-multithreading-thread-pool/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-multithreading-elements-sum/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-multithreading-blocking-queue/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-create-movie-session-hw/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-multithreading-read-write-list/pom.xml" />
+        <option value="$PROJECT_DIR$/jv-multithreading-decrease-counter/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <selected-state>
+          <State>
+            <id>User defined</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
